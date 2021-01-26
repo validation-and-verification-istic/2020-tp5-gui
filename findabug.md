@@ -4,7 +4,7 @@ Clone the [Simba Organizer repository](https://github.com/barais/doodlestudent/)
 
 Find a bug in the application. 
 
-With the help of Selenium and the page Object Model write a simple test that fails for this bug.
+With the help of Selenium and the Page Object Model desing pattern write a simple test that fails for this bug.
 
 Optionally make a pull request to the project.
 
